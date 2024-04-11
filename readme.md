@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ```
 URL: https://damctf.xyz/
-token: https://damctf.xyz/login?token=73S4o8XKcU8wtTREEk6u6F06N7pBllJngPqoAsNFSbHPWJIYc83G33bODovLQsyW2oI%2BDXE2egl%2Bfm5348iCqytTg3UOsA2w%2BM3mGN56DjSaAtbeL%2FJO%2F%2BHdXQTm
+token: https://damctf.xyz/login?token=73S4o8XKcU8wtTREEk6u6F06N7pBllJngPqoAsNFSbHPWJIYc83G33bODovLQsyW2oI%2BDXE2egl%2B...
 ```
 
 ## Credits
